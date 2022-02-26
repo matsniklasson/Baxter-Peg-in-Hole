@@ -1,0 +1,8 @@
+prefix=/home/baxter/mn/devel
+
+Name: baxter_moveit_config
+Description: Description of baxter_moveit_config
+Version: 1.1.1
+Cflags: 
+Libs: -L/home/baxter/mn/devel/lib 
+Requires: 

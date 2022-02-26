@@ -1,0 +1,11 @@
+<launch>
+
+  <node name="netft_node" pkg="netft_utils"
+  type="netft_node" args="134.7.44.145"
+  required="true" />
+
+  <node name="netft_utils" pkg="netft_utils" 
+  type="netft_utils" args="right_hand right_gripper_base"
+  required="true" />
+
+</launch>

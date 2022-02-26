@@ -1,0 +1,8 @@
+prefix=/home/baxter/mn/devel
+
+Name: baxter_maintenance_msgs
+Description: Description of baxter_maintenance_msgs
+Version: 1.2.0
+Cflags: -I/home/baxter/mn/devel/include
+Libs: -L/home/baxter/mn/devel/lib 
+Requires: message_runtime std_msgs

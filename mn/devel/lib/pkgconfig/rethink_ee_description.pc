@@ -1,0 +1,8 @@
+prefix=/home/baxter/mn/devel
+
+Name: rethink_ee_description
+Description: Description of rethink_ee_description
+Version: 1.2.0
+Cflags: 
+Libs: -L/home/baxter/mn/devel/lib 
+Requires: 

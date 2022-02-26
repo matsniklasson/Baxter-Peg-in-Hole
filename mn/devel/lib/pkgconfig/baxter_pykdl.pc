@@ -1,0 +1,8 @@
+prefix=/home/baxter/mn/devel
+
+Name: baxter_pykdl
+Description: Description of baxter_pykdl
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/baxter/mn/devel/lib 
+Requires: rospy geometry_msgs sensor_msgs urdfdom tf baxter_interface baxter_core_msgs

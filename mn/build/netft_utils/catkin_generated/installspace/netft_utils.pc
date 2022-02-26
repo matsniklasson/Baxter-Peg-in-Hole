@@ -1,0 +1,8 @@
+prefix=/home/baxter/mn/install
+
+Name: netft_utils
+Description: Description of netft_utils
+Version: 1.0.1
+Cflags: -I/home/baxter/mn/install/include
+Libs: -L/home/baxter/mn/install/lib -lnetft_utils_lean -llpfilter
+Requires: message_runtime

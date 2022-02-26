@@ -1,0 +1,8 @@
+prefix=/home/baxter/mn/install
+
+Name: peg_insert
+Description: Description of peg_insert
+Version: 1.2.0
+Cflags: 
+Libs: -L/home/baxter/mn/install/lib 
+Requires: rospy xacro actionlib sensor_msgs control_msgs trajectory_msgs cv_bridge dynamic_reconfigure baxter_core_msgs baxter_interface

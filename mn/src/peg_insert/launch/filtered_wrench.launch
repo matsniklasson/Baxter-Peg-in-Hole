@@ -1,0 +1,24 @@
+<launch>
+
+  <!-- Peg-in-Hole Script -->
+  <node name="filtered_wrench_fx" pkg="peg_insert"
+  type="filtered_fx.py" output="screen" />
+
+  <node name="filtered_wrench_fy" pkg="peg_insert"
+  type="filtered_fy.py" output="screen" />
+
+  <node name="filtered_wrench_fz" pkg="peg_insert"
+  type="filtered_fz.py" output="screen" />
+
+  <node name="filtered_wrench_tx" pkg="peg_insert"
+  type="filtered_tx.py" output="screen" />
+
+  <node name="filtered_wrench_ty" pkg="peg_insert"
+  type="filtered_ty.py" output="screen" />
+
+  <node name="filtered_wrench_tz" pkg="peg_insert"
+  type="filtered_tz.py" output="screen" />
+
+  <include file="$(find peg_insert)/launch/bias_ft.launch"/>
+
+</launch>

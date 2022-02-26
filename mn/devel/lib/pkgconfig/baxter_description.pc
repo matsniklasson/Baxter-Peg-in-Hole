@@ -1,0 +1,8 @@
+prefix=/home/baxter/mn/devel
+
+Name: baxter_description
+Description: Description of baxter_description
+Version: 1.2.0
+Cflags: 
+Libs: -L/home/baxter/mn/devel/lib 
+Requires: 

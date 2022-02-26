@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<package>
+  <name>peg_insert</name>
+  <version>1.2.0</version>
+  <description>
+    Package for Final Year Thesis - Robotic manipulation to insert a peg into a hole
+  </description>
+
+  <maintainer email="19134299@student.curtin.edu.au">
+    Mats Niklasson
+  </maintainer>
+  <license>BSD</license>
+  <author>Mats Niklasson</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>rospy</build_depend>
+  <build_depend>xacro</build_depend>
+  <build_depend>actionlib</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>control_msgs</build_depend>
+  <build_depend>trajectory_msgs</build_depend>
+  <build_depend>cv_bridge</build_depend>
+  <build_depend>dynamic_reconfigure</build_depend>
+  <build_depend>baxter_core_msgs</build_depend>
+  <build_depend>baxter_interface</build_depend>
+
+  <run_depend>rospy</run_depend>
+  <run_depend>xacro</run_depend>
+  <run_depend>actionlib</run_depend>
+  <run_depend>sensor_msgs</run_depend>
+  <run_depend>control_msgs</run_depend>
+  <run_depend>trajectory_msgs</run_depend>
+  <run_depend>cv_bridge</run_depend>
+  <run_depend>dynamic_reconfigure</run_depend>
+  <run_depend>baxter_core_msgs</run_depend>
+  <run_depend>baxter_interface</run_depend>
+
+</package>

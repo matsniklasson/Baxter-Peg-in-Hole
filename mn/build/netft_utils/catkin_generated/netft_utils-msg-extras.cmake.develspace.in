@@ -1,0 +1,2 @@
+set(netft_utils_MESSAGE_FILES "/home/baxter/mn/src/netft_utils/msg/Cancel.msg")
+set(netft_utils_SERVICE_FILES "/home/baxter/mn/src/netft_utils/srv/SetBias.srv;/home/baxter/mn/src/netft_utils/srv/SetFilter.srv;/home/baxter/mn/src/netft_utils/srv/SetMax.srv;/home/baxter/mn/src/netft_utils/srv/SetThreshold.srv;/home/baxter/mn/src/netft_utils/srv/SetToolData.srv;/home/baxter/mn/src/netft_utils/srv/GetDouble.srv;/home/baxter/mn/src/netft_utils/srv/StartSim.srv;/home/baxter/mn/src/netft_utils/srv/StopSim.srv")

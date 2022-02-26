@@ -1,0 +1,8 @@
+prefix=/home/baxter/mn/devel
+
+Name: bhand_controller
+Description: Description of bhand_controller
+Version: 0.1.2
+Cflags: -I/home/baxter/mn/devel/include
+Libs: -L/home/baxter/mn/devel/lib 
+Requires: 

@@ -1,0 +1,6 @@
+set(peg_insert_SETUP_PY_VERSION "1.2.0")
+set(peg_insert_SETUP_PY_SCRIPTS "")
+set(peg_insert_SETUP_PY_PACKAGES "peg_insert;baxter_external_devices")
+set(peg_insert_SETUP_PY_PACKAGE_DIRS "src/peg_insert;src/baxter_external_devices")
+set(peg_insert_SETUP_PY_MODULES "")
+set(peg_insert_SETUP_PY_MODULE_DIRS "")

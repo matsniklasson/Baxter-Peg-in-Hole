@@ -1,0 +1,6 @@
+set(rqt_bhand_SETUP_PY_VERSION "0.1.2")
+set(rqt_bhand_SETUP_PY_SCRIPTS "")
+set(rqt_bhand_SETUP_PY_PACKAGES "rqt_bhand")
+set(rqt_bhand_SETUP_PY_PACKAGE_DIRS "src/rqt_bhand")
+set(rqt_bhand_SETUP_PY_MODULES "")
+set(rqt_bhand_SETUP_PY_MODULE_DIRS "")
